@@ -1,0 +1,20 @@
+img{
+  width: 20%;
+  display: inline-block;
+  border-radius: 3px;
+  margin: auto;
+}
+.nombre{
+  width:50%;
+  display: inline-block;
+}
+.contenedor{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.foto-centrada{
+  margin: auto;
+  text-align: center;
+
+}
